@@ -1,0 +1,8 @@
+--- #YAML:1.0
+name: Net-OpenID2
+version: 
+author:
+  - David Huska <huska [at] sxip [dot] com>
+abstract: 
+license: open_source
+generated_by: Module::Build version 0.2611, without YAML.pm

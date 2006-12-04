@@ -1,0 +1,30 @@
+.... OpenID4Perl Library - TODO
+
+========================================================================
+
+ - Finish RP libraries
+ - Create IDP libraries
+ - Create AX (attribute exchange) libraries
+ - Logging
+ - Complete API documentation
+ - Persistent stores for associations and nonce verification
+ - Sample implementations of the RP and IDP
+
+========================================================================
+Copyright 2006 Sxip Identity Corporation
+
+Package distribution:
+  => http://code.sxip.com
+
+Source code and defect management:
+  => http://code.google.com/p/openid4perl
+
+For support, please join the Google Groups!
+  => http://groups.google.com/group/openid4perl
+
+OpenID
+  => http://openid.net
+
+Released under the Apache License 2.0
+  => see LICENSE
+

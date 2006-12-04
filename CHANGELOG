@@ -1,0 +1,48 @@
+.... OpenID4Perl Library - CHANGELOG
+
+========================================================================
+
+This document highlights of the major changes in the OpenID4Perl library. 
+Please see the TODO for outstanding items.
+
+    For the detailed logs please see the commit comments at:
+    - http://code.google.com/p/openid4perl
+
+
+20061203: First public code drop, version 0.9.0.x
+
+This is the first public release of the Perl OpenID package.  Currently,
+the majority of the functionality required for a working RP is available,
+but there is no RP implementation yet.  See TODO for a full list of items
+we plan to add in the near future.
+
+Packages complete in this release:
+ - Net::OpenID2::Association
+ - Net::OpenID2::Consumer (except for the RP)
+ - Net::OpenID2::Discovery
+ - Net::OpenID2::Message (nearly)
+ - Net::OpenID2::Util
+
+... and of course all tests.
+
+
+
+
+========================================================================
+Copyright 2006 Sxip Identity Corporation
+
+Package distribution:
+  => http://code.sxip.com
+          
+Source code and defect management:
+  => http://code.google.com/p/openid4perl
+          
+For support, please join the Google Groups!
+  => http://groups.google.com/group/openid4perl
+
+OpenID
+  => http://openid.net 
+
+Released under the Apache License 2.0
+  => see LICENSE
+

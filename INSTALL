@@ -1,0 +1,78 @@
+.... OpenID4Perl Library - INSTALL
+
+========================================================================
+
+INSTALLATION AND USAGE INSTRUCTIONS
+
+Introduction:
+
+This document describes how to install and use the OpenID4Perl library.
+For general information about the package please see the README document.
+
+
+Requirements:
+
+   - Perl 5.8.x or greater (see TODO)
+
+
+Installation:
+
+To install this module, run the following commands:
+
+   perl Build.PL
+   ./Build
+   ./Build test
+   ./Build install
+
+
+Documentation:
+
+After installing, you can find documentation for this module with the 
+perldoc command.
+
+   perldoc Net::OpenID2
+
+
+Contacts:
+
+  If you want freely available support, to participate in active
+  development, and to be informed about new code releases, bug fixes,
+  security fixes, general news and information about the OpenID4Perl
+  Library, subscribe to the Google Group at:
+
+        http://groups.google.com/group/openid4perl
+
+  If you want commercial support for running the OpenID4Perl Library,
+  please contact:
+
+        bizdev@sxip.com
+
+  If you find a bug in the OpenID4Perl Library please submit a defect
+  in the tracking database after verifying that it hasn't already been
+  submitted.
+
+        http://code.google.com/p/openid4perl/issues/list
+
+
+Thanks for running OpenID!
+                                       The Sxip Team -- http://sxip.com
+
+
+
+========================================================================
+Copyright 2006 Sxip Identity Corporation
+
+Package distribution:
+  => http://code.sxip.com
+
+Source code and defect management:
+  => http://code.google.com/p/openid4perl
+
+For support, please join the Google Groups!
+  => http://groups.google.com/group/openid4perl
+
+OpenID
+  => http://openid.net 
+
+Released under the Apache License 2.0
+  => see LICENSE

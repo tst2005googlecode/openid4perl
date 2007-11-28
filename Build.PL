@@ -18,6 +18,7 @@ my $builder = Module::Build->new(
                                                     'Net::Yadis' => 0 ,
                                                     'URI::URL' => 0 ,
                                                     'XML::XPath' => 0 ,
+                                                    'Crypt::Random' => 0 ,
                                                    },
                                  add_to_cleanup      => [ 'Net::OpenID-*' ],
 );

@@ -19,6 +19,7 @@ my $builder = Module::Build->new(
                                                     'URI::URL' => 0 ,
                                                     'XML::XPath' => 0 ,
                                                     'Crypt::Random' => 0 ,
+                                                    'Crypt::SSLeay' => 0 ,
                                                    },
                                  add_to_cleanup      => [ 'Net::OpenID-*' ],
 );
